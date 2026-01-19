@@ -4,10 +4,9 @@ Do a git clone on https://github.com/Codercat314/Apexcharts
 
   git clone https://github.com/Codercat314/Apexcharts
 
-Then run this to install apexcharts: 
+Switch to the right folder
 
-  npm install --save apexcharts
-  npm install --save vue3-apexcharts
+  cd Apexcharts
 
 To start the project and view the site
 
